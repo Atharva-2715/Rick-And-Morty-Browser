@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Rick And Morty Browser
+
+A React web app that lets you browse characters from Rick and Morty.
+
+## Screenshot
+![Screenshot](images/img%201.png)
+![Screenshot](images/img%202.png)
+![Screenshot](images/img%203.png)
+![Screenshot](images/img%204.png)
